@@ -1,0 +1,861 @@
+us_category_num,us_category_desc,uk_category_code,uk_category_name,score
+9602,Human milk,US9602,Human milk,1.0
+9602,Human milk,19NMLK,Nut milks,0.632
+9602,Human milk,US1902,Plant-based milk,0.538
+9602,Human milk,MTPS,Meat pies,0.421
+9602,Human milk,US8010,Mayonnaise,0.4
+1004,"Milk, reduced fat",US1004,"Milk, reduced fat",1.0
+1004,"Milk, reduced fat",US1204,"Flavored milk, reduced fat",0.791
+1004,"Milk, reduced fat",US1008,"Milk, nonfat",0.621
+1004,"Milk, reduced fat",US1006,"Milk, lowfat",0.621
+1004,"Milk, reduced fat",MILK,Milk & cream,0.552
+1002,"Milk, whole",US1002,"Milk, whole",1.0
+1002,"Milk, whole",US1202,"Flavored milk, whole",0.71
+1002,"Milk, whole",US1008,"Milk, nonfat",0.609
+1002,"Milk, whole",US1006,"Milk, lowfat",0.609
+1002,"Milk, whole",SHKS,Milkshakes,0.571
+1006,"Milk, lowfat",US1006,"Milk, lowfat",1.0
+1006,"Milk, lowfat",US1008,"Milk, nonfat",0.833
+1006,"Milk, lowfat",US1206,"Flavored milk, lowfat",0.727
+1006,"Milk, lowfat",US1004,"Milk, reduced fat",0.621
+1006,"Milk, lowfat",US1002,"Milk, whole",0.609
+1008,"Milk, nonfat",US1008,"Milk, nonfat",1.0
+1008,"Milk, nonfat",US1006,"Milk, lowfat",0.833
+1008,"Milk, nonfat",US1208,"Flavored milk, nonfat",0.727
+1008,"Milk, nonfat",US1004,"Milk, reduced fat",0.621
+1008,"Milk, nonfat",MCRL,Milk on cereal,0.615
+1202,"Flavored milk, whole",US1202,"Flavored milk, whole",1.0
+1202,"Flavored milk, whole",US1208,"Flavored milk, nonfat",0.78
+1202,"Flavored milk, whole",US1206,"Flavored milk, lowfat",0.78
+1202,"Flavored milk, whole",US1002,"Milk, whole",0.71
+1202,"Flavored milk, whole",US1204,"Flavored milk, reduced fat",0.696
+1902,Plant-based milk,US1902,Plant-based milk,1.0
+1902,Plant-based milk,US1904,Plant-based yogurt,0.706
+1902,Plant-based milk,23BBCER,Bran-based cereals,0.588
+1902,Plant-based milk,19NMLK,Nut milks,0.56
+1902,Plant-based milk,US9602,Human milk,0.538
+1820,"Yogurt, regular",US1820,"Yogurt, regular",1.0
+1820,"Yogurt, regular",US1822,"Yogurt, Greek",0.714
+1820,"Yogurt, regular",YOGU,Yoghurt,0.545
+1820,"Yogurt, regular",FTBD,Fruit bread,0.462
+1820,"Yogurt, regular",US4202,Yeast breads,0.444
+1822,"Yogurt, Greek",US1822,"Yogurt, Greek",1.0
+1822,"Yogurt, Greek",US1820,"Yogurt, regular",0.714
+1822,"Yogurt, Greek",YOGU,Yoghurt,0.6
+1822,"Yogurt, Greek",COUR,Courgette,0.455
+1822,"Yogurt, Greek",US3806,"Soups, cream-based",0.452
+8412,"Dips, gravies, other sauces",US8412,"Dips, gravies, other sauces",1.0
+8412,"Dips, gravies, other sauces",CHIP,"Chips, fries & wedges",0.542
+8412,"Dips, gravies, other sauces",22VEGO,"Vegetables, other",0.5
+8412,"Dips, gravies, other sauces",CHDH,Dishes with cheese,0.489
+8412,"Dips, gravies, other sauces",US5004,"Tortilla, corn, other chips",0.481
+5802,Ice cream and frozen dairy desserts,US5802,Ice cream and frozen dairy desserts,1.0
+5802,Ice cream and frozen dairy desserts,ICED,Ice cream desserts,0.679
+5802,Ice cream and frozen dairy desserts,IWFR,Ice cream toppings and wafers,0.562
+5802,Ice cream and frozen dairy desserts,LOLS,Ice cream lollies,0.538
+5802,Ice cream and frozen dairy desserts,ICEC,Ice cream & sorbet,0.528
+9007,Baby food: mixtures,US9007,Baby food: mixtures,1.0
+9007,Baby food: mixtures,US9002,Baby food: cereals,0.757
+9007,Baby food: mixtures,US9004,Baby food: fruit,0.743
+9007,Baby food: mixtures,US9010,Baby food: yogurt,0.722
+9007,Baby food: mixtures,US9006,Baby food: vegetables,0.7
+9010,Baby food: yogurt,US9010,Baby food: yogurt,1.0
+9010,Baby food: yogurt,US9004,Baby food: fruit,0.788
+9010,Baby food: yogurt,US9007,Baby food: mixtures,0.722
+9010,Baby food: yogurt,US9002,Baby food: cereals,0.686
+9010,Baby food: yogurt,US9006,Baby food: vegetables,0.684
+1206,"Flavored milk, lowfat",US1206,"Flavored milk, lowfat",1.0
+1206,"Flavored milk, lowfat",US1208,"Flavored milk, nonfat",0.905
+1206,"Flavored milk, lowfat",US1202,"Flavored milk, whole",0.78
+1206,"Flavored milk, lowfat",US1204,"Flavored milk, reduced fat",0.766
+1206,"Flavored milk, lowfat",US1006,"Milk, lowfat",0.727
+1204,"Flavored milk, reduced fat",US1204,"Flavored milk, reduced fat",1.0
+1204,"Flavored milk, reduced fat",US1004,"Milk, reduced fat",0.791
+1204,"Flavored milk, reduced fat",US1208,"Flavored milk, nonfat",0.766
+1204,"Flavored milk, reduced fat",US1206,"Flavored milk, lowfat",0.766
+1204,"Flavored milk, reduced fat",US1202,"Flavored milk, whole",0.696
+1208,"Flavored milk, nonfat",US1208,"Flavored milk, nonfat",1.0
+1208,"Flavored milk, nonfat",US1206,"Flavored milk, lowfat",0.905
+1208,"Flavored milk, nonfat",US1202,"Flavored milk, whole",0.78
+1208,"Flavored milk, nonfat",US1204,"Flavored milk, reduced fat",0.766
+1208,"Flavored milk, nonfat",US1008,"Milk, nonfat",0.727
+1402,Milk shakes and other dairy drinks,US1402,Milk shakes and other dairy drinks,1.0
+1402,Milk shakes and other dairy drinks,US7220,Smoothies and grain drinks,0.633
+1402,Milk shakes and other dairy drinks,MDNK,Milk as a drink,0.612
+1402,Milk shakes and other dairy drinks,MHDK,Milk in a hot drink,0.604
+1402,Milk shakes and other dairy drinks,US7106,Other diet drinks,0.588
+7220,Smoothies and grain drinks,US7220,Smoothies and grain drinks,1.0
+7220,Smoothies and grain drinks,US7206,Sport and energy drinks,0.653
+7220,Smoothies and grain drinks,US1402,Milk shakes and other dairy drinks,0.633
+7220,Smoothies and grain drinks,OTDR,Other drinks,0.632
+7220,Smoothies and grain drinks,US7104,Diet sport and energy drinks,0.593
+9404,"Formula, prepared from powder",US9404,"Formula, prepared from powder",1.0
+9404,"Formula, prepared from powder",US9402,"Formula, ready-to-feed",0.549
+9404,"Formula, prepared from powder",US9802,Protein and nutritional powders,0.5
+9404,"Formula, prepared from powder",US7802,Flavored or carbonated water,0.456
+9404,"Formula, prepared from powder",SYPR,Protein Powders,0.455
+9402,"Formula, ready-to-feed",US9402,"Formula, ready-to-feed",1.0
+9402,"Formula, ready-to-feed",US9404,"Formula, prepared from powder",0.549
+9402,"Formula, ready-to-feed",US3806,"Soups, cream-based",0.5
+9402,"Formula, ready-to-feed",US1204,"Flavored milk, reduced fat",0.5
+9402,"Formula, ready-to-feed",TBBR,Brown bread toasted,0.488
+9999,Not included in a food category,US9999,Not included in a food category,1.0
+9999,Not included in a food category,US7704,Bottled water,0.455
+9999,Not included in a food category,US7804,Enhanced water,0.444
+9999,Not included in a food category,MHDK,Milk in a hot drink,0.44
+9999,Not included in a food category,SYPR,Protein Powders,0.435
+8008,Cream and cream substitutes,US8008,Cream and cream substitutes,1.0
+8008,Cream and cream substitutes,US8804,Sugar substitutes,0.591
+8008,Cream and cream substitutes,LOLS,Ice cream lollies,0.545
+8008,Cream and cream substitutes,ICEC,Ice cream & sorbet,0.533
+8008,Cream and cream substitutes,US3740,Deli and cured meat sandwiches,0.526
+8006,"Cream cheese, sour cream, whipped cream",US8006,"Cream cheese, sour cream, whipped cream",1.0
+8006,"Cream cheese, sour cream, whipped cream",US4804,Grits and other cooked cereals,0.435
+8006,"Cream cheese, sour cream, whipped cream",WHTE,White sauce / cheese sauce,0.431
+8006,"Cream cheese, sour cream, whipped cream",US8008,Cream and cream substitutes,0.424
+8006,"Cream cheese, sour cream, whipped cream",US3208,Turnovers and other grain-based items,0.421
+5804,Pudding,US5804,Pudding,1.0
+5804,Pudding,PUDS,Puddings,0.933
+5804,Pudding,SSPD,Sponge pudding,0.667
+5804,Pudding,CAPU,Cappuccino,0.471
+5804,Pudding,SDRS,Salad dressings,0.455
+5502,Cakes and pies,US5502,Cakes and pies,1.0
+5502,Cakes and pies,US5504,Cookies and brownies,0.706
+5502,Cakes and pies,STEK,Steaks and chops,0.667
+5502,Cakes and pies,US3720,Cheese sandwiches,0.645
+5502,Cakes and pies,22CHSND,Cheese sandwiches,0.645
+1602,Cheese,US1602,Cheese,1.0
+1602,Cheese,CHSK,Cheesecake,0.75
+1602,Cheese,SFTC,Soft cheese,0.706
+1602,Cheese,HRDC,Hard cheese,0.706
+1602,Cheese,COTC,Cottage cheese,0.6
+1604,Cottage/ricotta cheese,US1604,Cottage/ricotta cheese,1.0
+1604,Cottage/ricotta cheese,COTC,Cottage cheese,0.778
+1604,Cottage/ricotta cheese,SFTC,Soft cheese,0.545
+1604,Cottage/ricotta cheese,HRDC,Hard cheese,0.545
+1604,Cottage/ricotta cheese,19LDFC,Lactose/Dairy-free cheese,0.511
+3602,Pizza,US3602,Pizza,1.0
+3602,Pizza,PZZA,Pizza,1.0
+3602,Pizza,US6409,Spinach,0.5
+3602,Pizza,SPNC,Spinach,0.5
+3602,Pizza,PIES,Pies,0.444
+2502,Eggs and omelets,US2502,Eggs and omelets,1.0
+2502,Eggs and omelets,US5502,Cakes and pies,0.6
+2502,Eggs and omelets,US2804,Nuts and seeds,0.6
+2502,Eggs and omelets,US2010,Liver and organ meats,0.595
+2502,Eggs and omelets,US8802,Sugars and honey,0.562
+3720,Cheese sandwiches,US3720,Cheese sandwiches,1.0
+3720,Cheese sandwiches,22CHSND,Cheese sandwiches,1.0
+3720,Cheese sandwiches,22CKSND,Chicken sandwiches,0.8
+3720,Cheese sandwiches,22MTSND,Meat sandwiches,0.75
+3720,Cheese sandwiches,US3730,Seafood sandwiches,0.743
+6432,"Coleslaw, non-lettuce salads",US6432,"Coleslaw, non-lettuce salads",1.0
+6432,"Coleslaw, non-lettuce salads",US6410,Lettuce and lettuce salads,0.667
+6432,"Coleslaw, non-lettuce salads",US6018,Other fruits and fruit salads,0.456
+6432,"Coleslaw, non-lettuce salads",CHOS,Chocolate spread,0.455
+6432,"Coleslaw, non-lettuce salads",COLE,Coleslaw,0.444
+2002,"Beef, excludes ground",US2002,"Beef, excludes ground",1.0
+2002,"Beef, excludes ground",US5202,"Crackers, excludes saltines",0.542
+2002,"Beef, excludes ground",BBRG,Beef burgers (no bun),0.524
+2002,"Beef, excludes ground",BDSH,Beef dishes,0.5
+2002,"Beef, excludes ground",US3204,"Pasta mixed dishes, excludes macaroni and cheese",0.493
+2004,Ground beef,US2004,Ground beef,1.0
+2004,Ground beef,22RSBAG,"Rolls, subs and baguettes",0.5
+2004,Ground beef,US4204,Rolls and buns,0.48
+2004,Ground beef,US2804,Nuts and seeds,0.48
+2004,Ground beef,US3206,Macaroni and cheese,0.467
+9008,Baby food: meat and dinners,US9008,Baby food: meat and dinners,1.0
+9008,Baby food: meat and dinners,US9012,Baby food: snacks and sweets,0.691
+9008,Baby food: meat and dinners,US9006,Baby food: vegetables,0.625
+9008,Baby food: meat and dinners,US9002,Baby food: cereals,0.622
+9008,Baby food: meat and dinners,US9007,Baby food: mixtures,0.609
+2602,Cold cuts and cured meats,US2602,Cold cuts and cured meats,1.0
+2602,Cold cuts and cured meats,US3740,Deli and cured meat sandwiches,0.618
+2602,Cold cuts and cured meats,US2010,Liver and organ meats,0.565
+2602,Cold cuts and cured meats,US2804,Nuts and seeds,0.564
+2602,Cold cuts and cured meats,22RSBAG,"Rolls, subs and baguettes",0.56
+2604,Bacon,US2604,Bacon,1.0
+2604,Bacon,BCNS,Bacon,1.0
+2604,Bacon,US6416,Corn,0.667
+2604,Bacon,US3504,Nachos,0.545
+2604,Bacon,SCNS,Scones,0.545
+2006,Pork,US2006,Pork,1.0
+2006,Pork,US5006,Popcorn,0.545
+2006,Pork,POPC,Popcorn,0.545
+2006,Pork,PDSH,Pork dishes,0.533
+2006,Pork,US6416,Corn,0.5
+3002,Meat mixed dishes,US3002,Meat mixed dishes,1.0
+3002,Meat mixed dishes,US3202,Rice mixed dishes,0.824
+3002,Meat mixed dishes,US3006,Seafood mixed dishes,0.811
+3002,Meat mixed dishes,MDSH,Meat dishes,0.786
+3002,Meat mixed dishes,US3004,Poultry mixed dishes,0.757
+8002,Butter and animal fats,US8002,Butter and animal fats,1.0
+8002,Butter and animal fats,19OANF,Other animal fats,0.769
+8002,Butter and animal fats,US2010,Liver and organ meats,0.605
+8002,Butter and animal fats,US3722,Peanut butter and jelly sandwiches,0.536
+8002,Butter and animal fats,US2502,Eggs and omelets,0.526
+2008,"Lamb, goat, game",US2008,"Lamb, goat, game",1.0
+2008,"Lamb, goat, game",US2802,"Beans, peas, legumes",0.5
+2008,"Lamb, goat, game",HAMS,Ham / gammon,0.5
+2008,"Lamb, goat, game",US9204,Baby water,0.462
+2008,"Lamb, goat, game",RSTM,Roast meat,0.462
+2206,"Turkey, duck, other poultry",US2206,"Turkey, duck, other poultry",1.0
+2206,"Turkey, duck, other poultry",US5004,"Tortilla, corn, other chips",0.519
+2206,"Turkey, duck, other poultry",US8406,Mustard and other condiments,0.473
+2206,"Turkey, duck, other poultry",US6011,Blueberries and other berries,0.464
+2206,"Turkey, duck, other poultry",BRGO,Chicken/turkey burgers (no bun),0.448
+2202,"Chicken, whole pieces",US2202,"Chicken, whole pieces",1.0
+2202,"Chicken, whole pieces",US3704,Chicken fillet sandwiches,0.652
+2202,"Chicken, whole pieces",22CKSND,Chicken sandwiches,0.615
+2202,"Chicken, whole pieces",US1002,"Milk, whole",0.562
+2202,"Chicken, whole pieces",ILOL,Ice lollies,0.562
+2204,"Chicken patties, nuggets and tenders",US2204,"Chicken patties, nuggets and tenders",1.0
+2204,"Chicken patties, nuggets and tenders",MFGR,"Chicken / turkey nuggets, fingers, goujons",0.59
+2204,"Chicken patties, nuggets and tenders",US3704,Chicken fillet sandwiches,0.557
+2204,"Chicken patties, nuggets and tenders",22CKSND,Chicken sandwiches,0.519
+2204,"Chicken patties, nuggets and tenders",US2804,Nuts and seeds,0.48
+2010,Liver and organ meats,US2010,Liver and organ meats,1.0
+2010,Liver and organ meats,US8002,Butter and animal fats,0.605
+2010,Liver and organ meats,US2502,Eggs and omelets,0.595
+2010,Liver and organ meats,US6406,Other red and orange vegetables,0.577
+2010,Liver and organ meats,US2602,Cold cuts and cured meats,0.565
+2606,Frankfurters,US2606,Frankfurters,1.0
+2606,Frankfurters,US3703,Frankfurter sandwiches,0.706
+2606,Frankfurters,CRKS,Crackers,0.6
+2606,Frankfurters,US3702,Burgers,0.526
+2606,Frankfurters,BRGS,Burgers,0.526
+2608,Sausages,US2608,Sausages,1.0
+2608,Sausages,SSGS,Sausages,1.0
+2608,Sausages,US6413,Cabbage,0.533
+2608,Sausages,US3702,Burgers,0.533
+2608,Sausages,CBBG,Cabbage,0.533
+2402,Fish,US2402,Fish,1.0
+2402,Fish,RWFH,Raw fish,0.667
+2402,Fish,US2404,Shellfish,0.615
+2402,Fish,RLSH,Relish,0.6
+2402,Fish,OILY,Canned fish,0.533
+2404,Shellfish,US2404,Shellfish,1.0
+2404,Shellfish,RLSH,Relish,0.667
+2404,Shellfish,US2402,Fish,0.615
+2404,Shellfish,SHRE,Shreddies,0.556
+2404,Shellfish,OILY,Canned fish,0.5
+3404,Stir-fry and soy-based sauce mixtures,US3404,Stir-fry and soy-based sauce mixtures,1.0
+3404,Stir-fry and soy-based sauce mixtures,23BBCER,Bran-based cereals,0.545
+3404,Stir-fry and soy-based sauce mixtures,TOMS,Tomato-based pasta sauces,0.516
+3404,Stir-fry and soy-based sauce mixtures,US3808,Ramen and Asian broth-based soups,0.514
+3404,Stir-fry and soy-based sauce mixtures,ROPOT,Roast and sauteed potatoes,0.508
+3004,Poultry mixed dishes,US3004,Poultry mixed dishes,1.0
+3004,Poultry mixed dishes,US3202,Rice mixed dishes,0.757
+3004,Poultry mixed dishes,US3002,Meat mixed dishes,0.757
+3004,Poultry mixed dishes,US3006,Seafood mixed dishes,0.7
+3004,Poultry mixed dishes,US3506,Other Mexican mixed dishes,0.696
+8410,"Pasta sauces, tomato-based",US8410,"Pasta sauces, tomato-based",1.0
+8410,"Pasta sauces, tomato-based",ROPOT,Roast and sauteed potatoes,0.577
+8410,"Pasta sauces, tomato-based",PTNS,Pasta (no sauce),0.524
+8410,"Pasta sauces, tomato-based",PTAS,Pasta (in sauce),0.524
+8410,"Pasta sauces, tomato-based",US4004,"Pasta, noodles, cooked grains",0.509
+3006,Seafood mixed dishes,US3006,Seafood mixed dishes,1.0
+3006,Seafood mixed dishes,US3002,Meat mixed dishes,0.811
+3006,Seafood mixed dishes,US3202,Rice mixed dishes,0.757
+3006,Seafood mixed dishes,US3004,Poultry mixed dishes,0.7
+3006,Seafood mixed dishes,US3506,Other Mexican mixed dishes,0.652
+8404,Soy-based condiments,US8404,Soy-based condiments,1.0
+8404,Soy-based condiments,US8402,Tomato-based condiments,0.837
+8404,Soy-based condiments,US8406,Mustard and other condiments,0.583
+8404,Soy-based condiments,23BBCER,Bran-based cereals,0.526
+8404,Soy-based condiments,COND,Sauces / condiments / gravy / stock,0.509
+3202,Rice mixed dishes,US3202,Rice mixed dishes,1.0
+3202,Rice mixed dishes,US3002,Meat mixed dishes,0.824
+3202,Rice mixed dishes,RIDH,Rice dishes,0.786
+3202,Rice mixed dishes,US3006,Seafood mixed dishes,0.757
+3202,Rice mixed dishes,US3004,Poultry mixed dishes,0.757
+3402,Fried rice and lo/chow mein,US3402,Fried rice and lo/chow mein,1.0
+3402,Fried rice and lo/chow mein,US8406,Mustard and other condiments,0.473
+3402,Fried rice and lo/chow mein,US6430,Fried vegetables,0.465
+3402,Fried rice and lo/chow mein,US6011,Blueberries and other berries,0.464
+3402,Fried rice and lo/chow mein,US2602,Cold cuts and cured meats,0.462
+3502,Burritos and tacos,US3502,Burritos and tacos,1.0
+3502,Burritos and tacos,BUNS,Buns and teacakes,0.686
+3502,Burritos and tacos,STEK,Steaks and chops,0.588
+3502,Burritos and tacos,OSVB,Savoury biscuits and snacks,0.578
+3502,Burritos and tacos,US4204,Rolls and buns,0.562
+6411,Other dark green vegetables,US6411,Other dark green vegetables,1.0
+6411,Other dark green vegetables,US6418,Other starchy vegetables,0.745
+6411,Other dark green vegetables,US6406,Other red and orange vegetables,0.69
+6411,Other dark green vegetables,RVEG,Pureed vegetables,0.636
+6411,Other dark green vegetables,US6430,Fried vegetables,0.605
+3740,Deli and cured meat sandwiches,US3740,Deli and cured meat sandwiches,1.0
+3740,Deli and cured meat sandwiches,22MTSND,Meat sandwiches,0.667
+3740,Deli and cured meat sandwiches,US3742,Meat and BBQ sandwiches,0.642
+3740,Deli and cured meat sandwiches,US2602,Cold cuts and cured meats,0.618
+3740,Deli and cured meat sandwiches,US3703,Frankfurter sandwiches,0.615
+3742,Meat and BBQ sandwiches,US3742,Meat and BBQ sandwiches,1.0
+3742,Meat and BBQ sandwiches,22MTSND,Meat sandwiches,0.789
+3742,Meat and BBQ sandwiches,US3730,Seafood sandwiches,0.683
+3742,Meat and BBQ sandwiches,US3722,Peanut butter and jelly sandwiches,0.667
+3742,Meat and BBQ sandwiches,US3740,Deli and cured meat sandwiches,0.642
+3702,Burgers,US3702,Burgers,1.0
+3702,Burgers,BRGS,Burgers,1.0
+3702,Burgers,19VEGB,Veggie burgers,0.667
+3702,Burgers,BUTR,Butter,0.615
+3702,Burgers,BERR,Berries,0.571
+3704,Chicken fillet sandwiches,US3704,Chicken fillet sandwiches,1.0
+3704,Chicken fillet sandwiches,22CKSND,Chicken sandwiches,0.837
+3704,Chicken fillet sandwiches,US3720,Cheese sandwiches,0.714
+3704,Chicken fillet sandwiches,22CHSND,Cheese sandwiches,0.714
+3704,Chicken fillet sandwiches,US2202,"Chicken, whole pieces",0.652
+3730,Seafood sandwiches,US3730,Seafood sandwiches,1.0
+3730,Seafood sandwiches,22MTSND,Meat sandwiches,0.788
+3730,Seafood sandwiches,US3720,Cheese sandwiches,0.743
+3730,Seafood sandwiches,22CHSND,Cheese sandwiches,0.743
+3730,Seafood sandwiches,US3742,Meat and BBQ sandwiches,0.683
+3703,Frankfurter sandwiches,US3703,Frankfurter sandwiches,1.0
+3703,Frankfurter sandwiches,US2606,Frankfurters,0.706
+3703,Frankfurter sandwiches,22MTSND,Meat sandwiches,0.703
+3703,Frankfurter sandwiches,US3706,Egg/breakfast sandwiches,0.696
+3703,Frankfurter sandwiches,US3740,Deli and cured meat sandwiches,0.615
+3804,"Soups, broth-based",US3804,"Soups, broth-based",1.0
+3804,"Soups, broth-based",US3806,"Soups, cream-based",0.778
+3804,"Soups, broth-based",US8410,"Pasta sauces, tomato-based",0.591
+3804,"Soups, broth-based",US3808,Ramen and Asian broth-based soups,0.51
+3804,"Soups, broth-based",TBBR,Brown bread toasted,0.486
+3808,Ramen and Asian broth-based soups,US3808,Ramen and Asian broth-based soups,1.0
+3808,Ramen and Asian broth-based soups,US3404,Stir-fry and soy-based sauce mixtures,0.514
+3808,Ramen and Asian broth-based soups,US3208,Turnovers and other grain-based items,0.514
+3808,Ramen and Asian broth-based soups,US3804,"Soups, broth-based",0.51
+3808,Ramen and Asian broth-based soups,US1904,Plant-based yogurt,0.471
+3806,"Soups, cream-based",US3806,"Soups, cream-based",1.0
+3806,"Soups, cream-based",US3804,"Soups, broth-based",0.778
+3806,"Soups, cream-based",US8410,"Pasta sauces, tomato-based",0.545
+3806,"Soups, cream-based",US9402,"Formula, ready-to-feed",0.5
+3806,"Soups, cream-based",TBBR,Brown bread toasted,0.486
+3706,Egg/breakfast sandwiches,US3706,Egg/breakfast sandwiches,1.0
+3706,Egg/breakfast sandwiches,22BSNDR,Breakfast sandwiches and rolls,0.741
+3706,Egg/breakfast sandwiches,22MTSND,Meat sandwiches,0.718
+3706,Egg/breakfast sandwiches,US3703,Frankfurter sandwiches,0.696
+3706,Egg/breakfast sandwiches,US3720,Cheese sandwiches,0.683
+2802,"Beans, peas, legumes",US2802,"Beans, peas, legumes",1.0
+2802,"Beans, peas, legumes",US3102,"Bean, pea, legume dishes",0.818
+2802,"Beans, peas, legumes",BBNS,Beans & pulses,0.588
+2802,"Beans, peas, legumes",US5806,"Gelatins, ices, sorbets",0.558
+2802,"Beans, peas, legumes",US8408,"Olives, pickles, pickled vegetables",0.509
+3102,"Bean, pea, legume dishes",US3102,"Bean, pea, legume dishes",1.0
+3102,"Bean, pea, legume dishes",US2802,"Beans, peas, legumes",0.818
+3102,"Bean, pea, legume dishes",BNDS,Bean dishes,0.629
+3102,"Bean, pea, legume dishes",BDSH,Beef dishes,0.571
+3102,"Bean, pea, legume dishes",BRDS,Bread dishes,0.556
+5004,"Tortilla, corn, other chips",US5004,"Tortilla, corn, other chips",1.0
+5004,"Tortilla, corn, other chips",US8412,"Dips, gravies, other sauces",0.519
+5004,"Tortilla, corn, other chips",US2206,"Turkey, duck, other poultry",0.519
+5004,"Tortilla, corn, other chips",US8406,Mustard and other condiments,0.509
+5004,"Tortilla, corn, other chips",US4208,Tortillas,0.5
+3104,Vegetable dishes,US3104,Vegetable dishes,1.0
+3104,Vegetable dishes,VGTJ,Vegetable juice,0.774
+3104,Vegetable dishes,US7008,Vegetable juice,0.774
+3104,Vegetable dishes,22VEGO,"Vegetables, other",0.727
+3104,Vegetable dishes,22EVSND,Egg / Vegetable sandwiches,0.714
+2806,Soy and meat-alternative products,US2806,Soy and meat-alternative products,1.0
+2806,Soy and meat-alternative products,US2502,Eggs and omelets,0.49
+2806,Soy and meat-alternative products,BUNS,Buns and teacakes,0.44
+2806,Soy and meat-alternative products,US7206,Sport and energy drinks,0.429
+2806,Soy and meat-alternative products,US2804,Nuts and seeds,0.426
+1904,Plant-based yogurt,US1904,Plant-based yogurt,1.0
+1904,Plant-based yogurt,US1902,Plant-based milk,0.706
+1904,Plant-based yogurt,US9010,Baby food: yogurt,0.571
+1904,Plant-based yogurt,23BBCER,Bran-based cereals,0.556
+1904,Plant-based yogurt,US8402,Tomato-based condiments,0.537
+8406,Mustard and other condiments,US8406,Mustard and other condiments,1.0
+8406,Mustard and other condiments,US4804,Grits and other cooked cereals,0.586
+8406,Mustard and other condiments,US8404,Soy-based condiments,0.583
+8406,Mustard and other condiments,US6011,Blueberries and other berries,0.561
+8406,Mustard and other condiments,US3208,Turnovers and other grain-based items,0.554
+3744,Vegetable sandwiches/burgers,US3744,Vegetable sandwiches/burgers,1.0
+3744,Vegetable sandwiches/burgers,22EVSND,Egg / Vegetable sandwiches,0.741
+3744,Vegetable sandwiches/burgers,US6489,Vegetables on a sandwich,0.692
+3744,Vegetable sandwiches/burgers,US3104,Vegetable dishes,0.636
+3744,Vegetable sandwiches/burgers,US3720,Cheese sandwiches,0.622
+2804,Nuts and seeds,US2804,Nuts and seeds,1.0
+2804,Nuts and seeds,NUTS,Nuts & seeds,0.846
+2804,Nuts and seeds,DGNT,Doughnuts and waffles,0.571
+2804,Nuts and seeds,US2602,Cold cuts and cured meats,0.564
+2804,Nuts and seeds,US3502,Burritos and tacos,0.562
+3722,Peanut butter and jelly sandwiches,US3722,Peanut butter and jelly sandwiches,1.0
+3722,Peanut butter and jelly sandwiches,US3742,Meat and BBQ sandwiches,0.667
+3722,Peanut butter and jelly sandwiches,US3703,Frankfurter sandwiches,0.607
+3722,Peanut butter and jelly sandwiches,22FSSND,Fish and Shellfish sandwiches,0.603
+3722,Peanut butter and jelly sandwiches,22MTSND,Meat sandwiches,0.571
+7204,Fruit drinks,US7204,Fruit drinks,1.0
+7204,Fruit drinks,US7202,Soft drinks,0.783
+7204,Fruit drinks,SOFT,Fizzy drinks,0.75
+7204,Fruit drinks,US7106,Other diet drinks,0.69
+7204,Fruit drinks,OTDR,Other drinks,0.667
+4202,Yeast breads,US4202,Yeast breads,1.0
+4202,Yeast breads,WBRD,White bread,0.609
+4202,Yeast breads,FTBD,Fruit bread,0.609
+4202,Yeast breads,GBRD,Garlic bread,0.583
+4202,Yeast breads,MTPS,Meat pies,0.571
+4204,Rolls and buns,US4204,Rolls and buns,1.0
+4204,Rolls and buns,22RSBAG,"Rolls, subs and baguettes",0.667
+4204,Rolls and buns,US5504,Cookies and brownies,0.588
+4204,Rolls and buns,US3502,Burritos and tacos,0.562
+4204,Rolls and buns,US8802,Sugars and honey,0.533
+5506,"Doughnuts, sweet rolls, pastries",US5506,"Doughnuts, sweet rolls, pastries",1.0
+5506,"Doughnuts, sweet rolls, pastries",CHPT,Cheese pastries,0.553
+5506,"Doughnuts, sweet rolls, pastries",DGNT,Doughnuts and waffles,0.528
+5506,"Doughnuts, sweet rolls, pastries",US2202,"Chicken, whole pieces",0.453
+5506,"Doughnuts, sweet rolls, pastries",PATE,Savoury spreads & pates,0.436
+4206,Bagels and English muffins,US4206,Bagels and English muffins,1.0
+4206,Bagels and English muffins,US7206,Sport and energy drinks,0.531
+4206,Bagels and English muffins,US7104,Diet sport and energy drinks,0.519
+4206,Bagels and English muffins,22FSSND,Fish and Shellfish sandwiches,0.509
+4206,Bagels and English muffins,US6008,Peaches and nectarines,0.5
+3208,Turnovers and other grain-based items,US3208,Turnovers and other grain-based items,1.0
+3208,Turnovers and other grain-based items,US6804,French fries and other fried white potatoes,0.6
+3208,Turnovers and other grain-based items,US6011,Blueberries and other berries,0.545
+3208,Turnovers and other grain-based items,US3404,Stir-fry and soy-based sauce mixtures,0.541
+3208,Turnovers and other grain-based items,US4804,Grits and other cooked cereals,0.537
+5202,"Crackers, excludes saltines",US5202,"Crackers, excludes saltines",1.0
+5202,"Crackers, excludes saltines",US2002,"Beef, excludes ground",0.542
+5202,"Crackers, excludes saltines",US3204,"Pasta mixed dishes, excludes macaroni and cheese",0.507
+5202,"Crackers, excludes saltines",US5502,Cakes and pies,0.488
+5202,"Crackers, excludes saltines",CHPT,Cheese pastries,0.476
+5504,Cookies and brownies,US5504,Cookies and brownies,1.0
+5504,Cookies and brownies,US5502,Cakes and pies,0.706
+5504,Cookies and brownies,US7220,Smoothies and grain drinks,0.609
+5504,Cookies and brownies,URICE,Uncooked rice,0.606
+5504,Cookies and brownies,US3720,Cheese sandwiches,0.595
+4402,"Biscuits, muffins, quick breads",US4402,"Biscuits, muffins, quick breads",1.0
+4402,"Biscuits, muffins, quick breads",CRUM,"Crumpets, muffins & pancakes",0.61
+4402,"Biscuits, muffins, quick breads",FRYC,Muffins & fairy cakes,0.5
+4402,"Biscuits, muffins, quick breads",FPCS,Fish fingers & fish in breadcrumbs,0.492
+4402,"Biscuits, muffins, quick breads",OSVB,Savoury biscuits and snacks,0.483
+4208,Tortillas,US4208,Tortillas,1.0
+4208,Tortillas,TART,Tarts,0.571
+4208,Tortillas,TRIF,Trifle,0.533
+4208,Tortillas,US5404,Nutrition bars,0.522
+4208,Tortillas,US5004,"Tortilla, corn, other chips",0.5
+4404,"Pancakes, waffles, French toast",US4404,"Pancakes, waffles, French toast",1.0
+4404,"Pancakes, waffles, French toast",US5202,"Crackers, excludes saltines",0.448
+4404,"Pancakes, waffles, French toast",SLBC,Cake slices & mini rolls,0.436
+4404,"Pancakes, waffles, French toast",WFFL,Potato waffles / fritters / hash browns / croquettes,0.434
+4404,"Pancakes, waffles, French toast",US4004,"Pasta, noodles, cooked grains",0.433
+5402,Cereal bars,US5402,Cereal bars,1.0
+5402,Cereal bars,CRBR,Cereal bars,1.0
+5402,Cereal bars,FCRL,Flake cereals,0.583
+5402,Cereal bars,BARS,Chocolate bars,0.56
+5402,Cereal bars,ICED,Ice cream desserts,0.552
+5404,Nutrition bars,US5404,Nutrition bars,1.0
+5404,Nutrition bars,US7208,Nutritional beverages,0.743
+5404,Nutrition bars,US6412,String beans,0.615
+5404,Nutrition bars,US3502,Burritos and tacos,0.562
+5404,Nutrition bars,US9802,Protein and nutritional powders,0.533
+9012,Baby food: snacks and sweets,US9012,Baby food: snacks and sweets,1.0
+9012,Baby food: snacks and sweets,US9008,Baby food: meat and dinners,0.655
+9012,Baby food: snacks and sweets,US9006,Baby food: vegetables,0.612
+9012,Baby food: snacks and sweets,US9004,Baby food: fruit,0.545
+9012,Baby food: snacks and sweets,US9010,Baby food: yogurt,0.533
+5204,Saltine crackers,US5204,Saltine crackers,1.0
+5204,Saltine crackers,CRKS,Crackers,0.667
+5204,Saltine crackers,PMPC,Poppadoms/prawn crackers,0.6
+5204,Saltine crackers,SPON,Sponge cake,0.593
+5204,Saltine crackers,BUNS,Buns and teacakes,0.545
+5008,Pretzels/snack mix,US5008,Pretzels/snack mix,1.0
+5008,Pretzels/snack mix,CRPS,Crisps / snacks / nuts,0.45
+5008,Pretzels/snack mix,CRSP,Crisps & snacks,0.424
+5008,Pretzels/snack mix,US3402,Fried rice and lo/chow mein,0.4
+5008,Pretzels/snack mix,FFRU,Frozen fruit,0.4
+5002,Potato chips,US5002,Potato chips,1.0
+5002,Potato chips,POTD,Potato dishes,0.72
+5002,Potato chips,COTC,Cottage cheese,0.538
+5002,Potato chips,BKDP,Baked potatoes,0.538
+5002,Potato chips,SFTC,Soft cheese,0.522
+5006,Popcorn,US5006,Popcorn,1.0
+5006,Popcorn,POPC,Popcorn,1.0
+5006,Popcorn,US6416,Corn,0.727
+5006,Popcorn,US2006,Pork,0.545
+5006,Popcorn,US2604,Bacon,0.5
+4004,"Pasta, noodles, cooked grains",US4004,"Pasta, noodles, cooked grains",1.0
+4004,"Pasta, noodles, cooked grains",US8410,"Pasta sauces, tomato-based",0.509
+4004,"Pasta, noodles, cooked grains",US7220,Smoothies and grain drinks,0.509
+4004,"Pasta, noodles, cooked grains",UCCGR,Uncooked couscous / grains,0.509
+4004,"Pasta, noodles, cooked grains",US8408,"Olives, pickles, pickled vegetables",0.5
+4804,Grits and other cooked cereals,US4804,Grits and other cooked cereals,1.0
+4804,Grits and other cooked cereals,US6011,Blueberries and other berries,0.61
+4804,Grits and other cooked cereals,US8406,Mustard and other condiments,0.552
+4804,Grits and other cooked cereals,US6804,French fries and other fried white potatoes,0.548
+4804,Grits and other cooked cereals,US3502,Burritos and tacos,0.542
+4802,Oatmeal,US4802,Oatmeal,1.0
+4802,Oatmeal,RSTM,Roast meat,0.706
+4802,Oatmeal,GATX,Gateau,0.615
+4802,Oatmeal,US7304,Tea,0.6
+4802,Oatmeal,TEAS,Tea,0.6
+4002,Rice,US4002,Rice,1.0
+4002,Rice,RICE,Rice,1.0
+4002,Rice,TRIF,Trifle,0.6
+4002,Rice,SPCE,Spices,0.6
+4002,Rice,QCHE,Quiche,0.6
+4602,"Ready-to-eat cereal, higher sugar (>21.2g/100g)",US4602,"Ready-to-eat cereal, higher sugar (>21.2g/100g)",1.0
+4602,"Ready-to-eat cereal, higher sugar (>21.2g/100g)",US4604,"Ready-to-eat cereal, lower sugar (=<21.2g/100g)",0.894
+4602,"Ready-to-eat cereal, higher sugar (>21.2g/100g)",HTCL,"Hot cereals, e.g. porridge, ready brek",0.4
+4602,"Ready-to-eat cereal, higher sugar (>21.2g/100g)",US8006,"Cream cheese, sour cream, whipped cream",0.372
+4602,"Ready-to-eat cereal, higher sugar (>21.2g/100g)",US5004,"Tortilla, corn, other chips",0.351
+4604,"Ready-to-eat cereal, lower sugar (=<21.2g/100g)",US4604,"Ready-to-eat cereal, lower sugar (=<21.2g/100g)",1.0
+4604,"Ready-to-eat cereal, lower sugar (=<21.2g/100g)",US4602,"Ready-to-eat cereal, higher sugar (>21.2g/100g)",0.894
+4604,"Ready-to-eat cereal, lower sugar (=<21.2g/100g)",HTCL,"Hot cereals, e.g. porridge, ready brek",0.376
+4604,"Ready-to-eat cereal, lower sugar (=<21.2g/100g)",UHTCL,"Hot cereal/porridge, uncooked (not made up)",0.356
+4604,"Ready-to-eat cereal, lower sugar (=<21.2g/100g)",US5004,"Tortilla, corn, other chips",0.351
+9002,Baby food: cereals,US9002,Baby food: cereals,1.0
+9002,Baby food: cereals,US9006,Baby food: vegetables,0.821
+9002,Baby food: cereals,US9007,Baby food: mixtures,0.757
+9002,Baby food: cereals,US9004,Baby food: fruit,0.706
+9002,Baby food: cereals,US9010,Baby food: yogurt,0.686
+3506,Other Mexican mixed dishes,US3506,Other Mexican mixed dishes,1.0
+3506,Other Mexican mixed dishes,US3202,Rice mixed dishes,0.744
+3506,Other Mexican mixed dishes,US3002,Meat mixed dishes,0.744
+3506,Other Mexican mixed dishes,US3004,Poultry mixed dishes,0.696
+3506,Other Mexican mixed dishes,US3006,Seafood mixed dishes,0.609
+3504,Nachos,US3504,Nachos,1.0
+3504,Nachos,US6409,Spinach,0.615
+3504,Nachos,SPNC,Spinach,0.615
+3504,Nachos,ALCO,Alcopops,0.571
+3504,Nachos,US2604,Bacon,0.545
+3406,"Egg rolls, dumplings, sushi",US3406,"Egg rolls, dumplings, sushi",1.0
+3406,"Egg rolls, dumplings, sushi",US4204,Rolls and buns,0.488
+3406,"Egg rolls, dumplings, sushi",YPUD,Yorkshire puddings & dumplings,0.456
+3406,"Egg rolls, dumplings, sushi",BRDR,"Bread rolls, baps & bagels",0.453
+3406,"Egg rolls, dumplings, sushi",US5806,"Gelatins, ices, sorbets",0.44
+3204,"Pasta mixed dishes, excludes macaroni and cheese",US3204,"Pasta mixed dishes, excludes macaroni and cheese",1.0
+3204,"Pasta mixed dishes, excludes macaroni and cheese",US3206,Macaroni and cheese,0.567
+3204,"Pasta mixed dishes, excludes macaroni and cheese",US2002,"Beef, excludes ground",0.493
+3204,"Pasta mixed dishes, excludes macaroni and cheese",US5202,"Crackers, excludes saltines",0.48
+3204,"Pasta mixed dishes, excludes macaroni and cheese",US3002,Meat mixed dishes,0.462
+3206,Macaroni and cheese,US3206,Macaroni and cheese,1.0
+3206,Macaroni and cheese,HRDC,Hard cheese,0.667
+3206,Macaroni and cheese,22MTSND,Meat sandwiches,0.588
+3206,Macaroni and cheese,US3204,"Pasta mixed dishes, excludes macaroni and cheese",0.567
+3206,Macaroni and cheese,US5502,Cakes and pies,0.545
+6012,Citrus fruits,US6012,Citrus fruits,1.0
+6012,Citrus fruits,US7002,Citrus juice,0.72
+6012,Citrus fruits,FREF,Fresh fruit,0.667
+6012,Citrus fruits,US6016,Dried fruits,0.64
+6012,Citrus fruits,FRTP,Pastries & fruit pies,0.588
+8806,"Jams, syrups, toppings",US8806,"Jams, syrups, toppings",1.0
+8806,"Jams, syrups, toppings",SNDF,Fillings / toppings,0.537
+8806,"Jams, syrups, toppings",US2802,"Beans, peas, legumes",0.476
+8806,"Jams, syrups, toppings",US8410,"Pasta sauces, tomato-based",0.458
+8806,"Jams, syrups, toppings",IWFR,Ice cream toppings and wafers,0.431
+7002,Citrus juice,US7002,Citrus juice,1.0
+7002,Citrus juice,US6012,Citrus fruits,0.72
+7002,Citrus juice,FJCE,Fruit juice,0.696
+7002,Citrus juice,US7006,Other fruit juice,0.552
+7002,Citrus juice,US9202,Baby juice,0.545
+7006,Other fruit juice,US7006,Other fruit juice,1.0
+7006,Other fruit juice,FJCE,Fruit juice,0.786
+7006,Other fruit juice,US7002,Citrus juice,0.621
+7006,Other fruit juice,US6018,Other fruits and fruit salads,0.609
+7006,Other fruit juice,FTCA,Fruit cake,0.593
+6016,Dried fruits,US6016,Dried fruits,1.0
+6016,Dried fruits,DRIF,Dried fruit,0.957
+6016,Dried fruits,FREF,Fresh fruit,0.696
+6016,Dried fruits,FFRU,Frozen fruit,0.667
+6016,Dried fruits,CAND,Canned fruit,0.667
+6018,Other fruits and fruit salads,US6018,Other fruits and fruit salads,1.0
+6018,Other fruits and fruit salads,US7006,Other fruit juice,0.609
+6018,Other fruits and fruit salads,US6410,Lettuce and lettuce salads,0.545
+6018,Other fruits and fruit salads,OSVB,Savoury biscuits and snacks,0.536
+6018,Other fruits and fruit salads,US9802,Protein and nutritional powders,0.533
+6002,Apples,US6002,Apples,1.0
+6002,Apples,APLS,Apples,1.0
+6002,Apples,US6022,Pineapple,0.667
+6002,Apples,US6006,Grapes,0.667
+6002,Apples,GRPS,Grapes,0.667
+6420,Other vegetables and combinations,US6420,Other vegetables and combinations,1.0
+6420,Other vegetables and combinations,22EVSND,Egg / Vegetable sandwiches,0.576
+6420,Other vegetables and combinations,US6418,Other starchy vegetables,0.561
+6420,Other vegetables and combinations,US6411,Other dark green vegetables,0.533
+6420,Other vegetables and combinations,OTBS,Other sweet biscuits,0.528
+6004,Bananas,US6004,Bananas,1.0
+6004,Bananas,US2604,Bacon,0.5
+6004,Bananas,BUNS,Buns and teacakes,0.5
+6004,Bananas,BCNS,Bacon,0.5
+6004,Bananas,US8002,Butter and animal fats,0.483
+6014,Melons,US6014,Melons,1.0
+6014,Melons,MLNS,Melons,1.0
+6014,Melons,MINT,Mints,0.545
+6014,Melons,US8010,Mayonnaise,0.5
+6014,Melons,US6414,Onions,0.5
+6006,Grapes,US6006,Grapes,1.0
+6006,Grapes,GRPS,Grapes,1.0
+6006,Grapes,US6002,Apples,0.667
+6006,Grapes,APLS,Apples,0.667
+6006,Grapes,PIES,Pies,0.6
+6024,Mango and papaya,US6024,Mango and papaya,1.0
+6024,Mango and papaya,PEPR,Salt and Pepper,0.516
+6024,Mango and papaya,TOMS,Tomato-based pasta sauces,0.488
+6024,Mango and papaya,BUNS,Buns and teacakes,0.485
+6024,Mango and papaya,US5502,Cakes and pies,0.467
+6008,Peaches and nectarines,US6008,Peaches and nectarines,1.0
+6008,Peaches and nectarines,US5502,Cakes and pies,0.611
+6008,Peaches and nectarines,CHPT,Cheese pastries,0.595
+6008,Peaches and nectarines,US5504,Cookies and brownies,0.571
+6008,Peaches and nectarines,BUNS,Buns and teacakes,0.564
+6020,Pears,US6020,Pears,1.0
+6020,Pears,PEAR,Pears,1.0
+6020,Pears,PPRS,Peppers,0.667
+6020,Pears,PIES,Pies,0.667
+6020,Pears,VNGR,Vinegars,0.615
+6022,Pineapple,US6022,Pineapple,1.0
+6022,Pineapple,US6002,Apples,0.667
+6022,Pineapple,APLS,Apples,0.667
+6022,Pineapple,PPRS,Peppers,0.625
+6022,Pineapple,US7004,Apple juice,0.5
+6011,Blueberries and other berries,US6011,Blueberries and other berries,1.0
+6011,Blueberries and other berries,US4804,Grits and other cooked cereals,0.61
+6011,Blueberries and other berries,US3208,Turnovers and other grain-based items,0.606
+6011,Blueberries and other berries,US1402,Milk shakes and other dairy drinks,0.571
+6011,Blueberries and other berries,US6804,French fries and other fried white potatoes,0.556
+6009,Strawberries,US6009,Strawberries,1.0
+6009,Strawberries,BERR,Berries,0.737
+6009,Strawberries,SHRE,Shreddies,0.571
+6009,Strawberries,US6412,String beans,0.5
+6009,Strawberries,US5204,Saltine crackers,0.5
+5806,"Gelatins, ices, sorbets",US5806,"Gelatins, ices, sorbets",1.0
+5806,"Gelatins, ices, sorbets",US2802,"Beans, peas, legumes",0.512
+5806,"Gelatins, ices, sorbets",ICEC,Ice cream & sorbet,0.488
+5806,"Gelatins, ices, sorbets",US8412,"Dips, gravies, other sauces",0.48
+5806,"Gelatins, ices, sorbets",GHRK,"Gherkins, capers & jalapenos",0.471
+7004,Apple juice,US7004,Apple juice,1.0
+7004,Apple juice,VGTJ,Vegetable juice,0.692
+7004,Apple juice,US7008,Vegetable juice,0.692
+7004,Apple juice,US9202,Baby juice,0.667
+7004,Apple juice,US6002,Apples,0.588
+9004,Baby food: fruit,US9004,Baby food: fruit,1.0
+9004,Baby food: fruit,US9010,Baby food: yogurt,0.788
+9004,Baby food: fruit,US9002,Baby food: cereals,0.706
+9004,Baby food: fruit,US9007,Baby food: mixtures,0.686
+9004,Baby food: fruit,US9006,Baby food: vegetables,0.649
+9202,Baby juice,US9202,Baby juice,1.0
+9202,Baby juice,US7004,Apple juice,0.667
+9202,Baby juice,VGTJ,Vegetable juice,0.64
+9202,Baby juice,US7008,Vegetable juice,0.64
+9202,Baby juice,US9204,Baby water,0.6
+6802,"White potatoes, baked or boiled",US6802,"White potatoes, baked or boiled",1.0
+6802,"White potatoes, baked or boiled",TSTF,White bread toasted or fried,0.644
+6802,"White potatoes, baked or boiled",US8402,Tomato-based condiments,0.481
+6802,"White potatoes, baked or boiled",BOLP,Boiled potatoes,0.478
+6802,"White potatoes, baked or boiled",US4004,"Pasta, noodles, cooked grains",0.467
+6806,Mashed potatoes and white potato mixtures,US6806,Mashed potatoes and white potato mixtures,1.0
+6806,Mashed potatoes and white potato mixtures,US6804,French fries and other fried white potatoes,0.548
+6806,Mashed potatoes and white potato mixtures,US3404,Stir-fry and soy-based sauce mixtures,0.487
+6806,Mashed potatoes and white potato mixtures,MASH,Mashed potato,0.481
+6806,Mashed potatoes and white potato mixtures,US6008,Peaches and nectarines,0.476
+6804,French fries and other fried white potatoes,US6804,French fries and other fried white potatoes,1.0
+6804,French fries and other fried white potatoes,US3208,Turnovers and other grain-based items,0.6
+6804,French fries and other fried white potatoes,ROPOT,Roast and sauteed potatoes,0.58
+6804,French fries and other fried white potatoes,US6011,Blueberries and other berries,0.556
+6804,French fries and other fried white potatoes,US4804,Grits and other cooked cereals,0.548
+6418,Other starchy vegetables,US6418,Other starchy vegetables,1.0
+6418,Other starchy vegetables,US6411,Other dark green vegetables,0.745
+6418,Other starchy vegetables,US6406,Other red and orange vegetables,0.691
+6418,Other starchy vegetables,SLDV,Salad vegetables,0.65
+6418,Other starchy vegetables,OTSW,Other sweets,0.611
+6430,Fried vegetables,US6430,Fried vegetables,1.0
+6430,Fried vegetables,MXDV,Mixed vegetables,0.875
+6430,Fried vegetables,RVEG,Pureed vegetables,0.848
+6430,Fried vegetables,PION,Pickled vegetables,0.824
+6430,Fried vegetables,SLDV,Salad vegetables,0.75
+6407,Broccoli,US6407,Broccoli,1.0
+6407,Broccoli,BRCL,Broccoli,1.0
+6407,Broccoli,BEET,Beetroot,0.5
+6407,Broccoli,DCHO,Hot chocolate,0.476
+6407,Broccoli,US2604,Bacon,0.462
+6410,Lettuce and lettuce salads,US6410,Lettuce and lettuce salads,1.0
+6410,Lettuce and lettuce salads,US6432,"Coleslaw, non-lettuce salads",0.667
+6410,Lettuce and lettuce salads,US6018,Other fruits and fruit salads,0.545
+6410,Lettuce and lettuce salads,US8002,Butter and animal fats,0.5
+6410,Lettuce and lettuce salads,US6008,Peaches and nectarines,0.5
+6409,Spinach,US6409,Spinach,1.0
+6409,Spinach,SPNC,Spinach,1.0
+6409,Spinach,US3504,Nachos,0.615
+6409,Spinach,SPCE,Spices,0.615
+6409,Spinach,US6022,Pineapple,0.5
+6404,Carrots,US6404,Carrots,1.0
+6404,Carrots,TART,Tarts,0.667
+6404,Carrots,CROU,Croutons,0.667
+6404,Carrots,CARR,Carrot cake,0.667
+6404,Carrots,CRTS,Carrots & parsnips,0.56
+7008,Vegetable juice,VGTJ,Vegetable juice,1.0
+7008,Vegetable juice,US7008,Vegetable juice,1.0
+7008,Vegetable juice,US3104,Vegetable dishes,0.774
+7008,Vegetable juice,19VFRIT,Vegetable fritters,0.727
+7008,Vegetable juice,US7004,Apple juice,0.692
+6406,Other red and orange vegetables,US6406,Other red and orange vegetables,1.0
+6406,Other red and orange vegetables,US6411,Other dark green vegetables,0.69
+6406,Other red and orange vegetables,US6418,Other starchy vegetables,0.655
+6406,Other red and orange vegetables,US6430,Fried vegetables,0.596
+6406,Other red and orange vegetables,RVEG,Pureed vegetables,0.583
+6402,Tomatoes,US6402,Tomatoes,1.0
+6402,Tomatoes,TMTO,Tomatoes,1.0
+6402,Tomatoes,TART,Tarts,0.615
+6402,Tomatoes,PTES,Pates,0.615
+6402,Tomatoes,MTPS,Meat pies,0.588
+8408,"Olives, pickles, pickled vegetables",US8408,"Olives, pickles, pickled vegetables",1.0
+8408,"Olives, pickles, pickled vegetables",PION,Pickled vegetables,0.679
+8408,"Olives, pickles, pickled vegetables",US6430,Fried vegetables,0.549
+8408,"Olives, pickles, pickled vegetables",MXDV,Mixed vegetables,0.549
+8408,"Olives, pickles, pickled vegetables",US6411,Other dark green vegetables,0.548
+8402,Tomato-based condiments,US8402,Tomato-based condiments,1.0
+8402,Tomato-based condiments,US8404,Soy-based condiments,0.837
+8402,Tomato-based condiments,TOMS,Tomato-based pasta sauces,0.667
+8402,Tomato-based condiments,US8406,Mustard and other condiments,0.588
+8402,Tomato-based condiments,23BBCER,Bran-based cereals,0.537
+6412,String beans,US6412,String beans,1.0
+6412,String beans,US5404,Nutrition bars,0.615
+6412,String beans,US4202,Yeast breads,0.583
+6412,String beans,US7208,Nutritional beverages,0.545
+6412,String beans,US7202,Soft drinks,0.522
+6413,Cabbage,US6413,Cabbage,1.0
+6413,Cabbage,CBBG,Cabbage,1.0
+6413,Cabbage,CRAB,Crab,0.545
+6413,Cabbage,US2608,Sausages,0.533
+6413,Cabbage,SSGS,Sausages,0.533
+6416,Corn,US6416,Corn,1.0
+6416,Corn,US5006,Popcorn,0.727
+6416,Corn,POPC,Popcorn,0.727
+6416,Corn,US2604,Bacon,0.667
+6416,Corn,BCNS,Bacon,0.667
+6414,Onions,US6414,Onions,1.0
+6414,Onions,ONIO,Onions,1.0
+6414,Onions,CROU,Croutons,0.571
+6414,Onions,US8010,Mayonnaise,0.5
+6414,Onions,US6014,Melons,0.5
+9006,Baby food: vegetables,US9006,Baby food: vegetables,1.0
+9006,Baby food: vegetables,US9002,Baby food: cereals,0.821
+9006,Baby food: vegetables,US6430,Fried vegetables,0.703
+9006,Baby food: vegetables,SLDV,Salad vegetables,0.703
+9006,Baby food: vegetables,US9007,Baby food: mixtures,0.7
+8004,Margarine,US8004,Margarine,1.0
+8004,Margarine,MRGN,Margarine / spread,0.667
+8004,Margarine,US8010,Mayonnaise,0.526
+8004,Margarine,MAYN,Mayonnaise,0.526
+8004,Margarine,US3206,Macaroni and cheese,0.5
+8010,Mayonnaise,US8010,Mayonnaise,1.0
+8010,Mayonnaise,MAYN,Mayonnaise,1.0
+8010,Mayonnaise,US6414,Onions,0.5
+8010,Mayonnaise,US6014,Melons,0.5
+8010,Mayonnaise,ONIO,Onions,0.5
+8012,Salad dressings and vegetable oils,US8012,Salad dressings and vegetable oils,1.0
+8012,Salad dressings and vegetable oils,SLDV,Salad vegetables,0.64
+8012,Salad dressings and vegetable oils,SDRS,Salad dressings,0.612
+8012,Salad dressings and vegetable oils,US6430,Fried vegetables,0.56
+8012,Salad dressings and vegetable oils,US6406,Other red and orange vegetables,0.554
+6489,Vegetables on a sandwich,US6489,Vegetables on a sandwich,1.0
+6489,Vegetables on a sandwich,22EVSND,Egg / Vegetable sandwiches,0.72
+6489,Vegetables on a sandwich,US3744,Vegetable sandwiches/burgers,0.692
+6489,Vegetables on a sandwich,22VEGO,"Vegetables, other",0.634
+6489,Vegetables on a sandwich,VGTJ,Vegetable juice,0.615
+8802,Sugars and honey,US8802,Sugars and honey,1.0
+8802,Sugars and honey,STEK,Steaks and chops,0.625
+8802,Sugars and honey,US2502,Eggs and omelets,0.562
+8802,Sugars and honey,US8406,Mustard and other condiments,0.545
+8802,Sugars and honey,US5502,Cakes and pies,0.533
+8804,Sugar substitutes,US8804,Sugar substitutes,1.0
+8804,Sugar substitutes,US8008,Cream and cream substitutes,0.636
+8804,Sugar substitutes,MTST,"Meat substitute, e.g. Quorn",0.545
+8804,Sugar substitutes,22RSBAG,"Rolls, subs and baguettes",0.476
+8804,Sugar substitutes,19VFRIT,Vegetable fritters,0.457
+5704,Candy not containing chocolate,US5704,Candy not containing chocolate,1.0
+5704,Candy not containing chocolate,US5702,Candy containing chocolate,0.929
+5704,Candy not containing chocolate,DCHO,Hot chocolate,0.558
+5704,Candy not containing chocolate,US6008,Peaches and nectarines,0.462
+5704,Candy not containing chocolate,COTC,Cottage cheese,0.455
+5702,Candy containing chocolate,US5702,Candy containing chocolate,1.0
+5702,Candy containing chocolate,US5704,Candy not containing chocolate,0.929
+5702,Candy containing chocolate,DCHO,Hot chocolate,0.615
+5702,Candy containing chocolate,CHCS,Chocolates,0.5
+5702,Candy containing chocolate,US6008,Peaches and nectarines,0.458
+7302,Coffee,US7302,Coffee,1.0
+7302,Coffee,CFFS,Coffee,1.0
+7302,Coffee,COUR,Courgette,0.533
+7302,Coffee,US1602,Cheese,0.5
+7302,Coffee,SCNS,Scones,0.5
+7304,Tea,US7304,Tea,1.0
+7304,Tea,TEAS,Tea,1.0
+7304,Tea,GATX,Gateau,0.667
+7304,Tea,US4802,Oatmeal,0.6
+7304,Tea,WTRS,Water,0.5
+7202,Soft drinks,US7202,Soft drinks,1.0
+7202,Soft drinks,US7102,Diet soft drinks,0.815
+7202,Soft drinks,US7204,Fruit drinks,0.783
+7202,Soft drinks,OTDR,Other drinks,0.783
+7202,Soft drinks,SOFT,Fizzy drinks,0.696
+7102,Diet soft drinks,US7102,Diet soft drinks,1.0
+7102,Diet soft drinks,US7202,Soft drinks,0.815
+7102,Diet soft drinks,US7104,Diet sport and energy drinks,0.682
+7102,Diet soft drinks,US7106,Other diet drinks,0.667
+7102,Diet soft drinks,US7204,Fruit drinks,0.643
+7802,Flavored or carbonated water,US7802,Flavored or carbonated water,1.0
+7802,Flavored or carbonated water,US1204,"Flavored milk, reduced fat",0.593
+7802,Flavored or carbonated water,US1208,"Flavored milk, nonfat",0.571
+7802,Flavored or carbonated water,US7704,Bottled water,0.537
+7802,Flavored or carbonated water,US1202,"Flavored milk, whole",0.5
+7106,Other diet drinks,US7106,Other diet drinks,1.0
+7106,Other diet drinks,OTDR,Other drinks,0.828
+7106,Other diet drinks,US7204,Fruit drinks,0.69
+7106,Other diet drinks,US7102,Diet soft drinks,0.667
+7106,Other diet drinks,US7202,Soft drinks,0.643
+7502,Beer,US7502,Beer,1.0
+7502,Beer,BEET,Beetroot,0.667
+7502,Beer,BUTR,Butter,0.6
+7502,Beer,BEER,Beer/stout,0.571
+7502,Beer,US3702,Burgers,0.545
+7506,Liquor and cocktails,US7506,Liquor and cocktails,1.0
+7506,Liquor and cocktails,US2010,Liver and organ meats,0.537
+7506,Liquor and cocktails,US3502,Burritos and tacos,0.526
+7506,Liquor and cocktails,BUNS,Buns and teacakes,0.486
+7506,Liquor and cocktails,US4804,Grits and other cooked cereals,0.48
+7504,Wine,WINE,Wine,1.0
+7504,Wine,US7504,Wine,1.0
+7504,Wine,VNGR,Vinegars,0.5
+7504,Wine,US4002,Rice,0.5
+7504,Wine,RICE,Rice,0.5
+7702,Tap water,US7702,Tap water,1.0
+7702,Tap water,US9204,Baby water,0.737
+7702,Tap water,WTRS,Water,0.714
+7702,Tap water,US7704,Bottled water,0.636
+7702,Tap water,US7804,Enhanced water,0.609
+7704,Bottled water,US7704,Bottled water,1.0
+7704,Bottled water,BOLP,Boiled potatoes,0.643
+7704,Bottled water,US7702,Tap water,0.636
+7704,Bottled water,BOIL,Boiled sweets,0.615
+7704,Bottled water,US9204,Baby water,0.609
+7804,Enhanced water,US7804,Enhanced water,1.0
+7804,Enhanced water,US7702,Tap water,0.609
+7804,Enhanced water,US7704,Bottled water,0.593
+7804,Enhanced water,US9204,Baby water,0.583
+7804,Enhanced water,WTRS,Water,0.526
+9204,Baby water,US9204,Baby water,1.0
+9204,Baby water,US7702,Tap water,0.737
+9204,Baby water,WTRS,Water,0.667
+9204,Baby water,US7704,Bottled water,0.609
+9204,Baby water,US9202,Baby juice,0.6
+7208,Nutritional beverages,US7208,Nutritional beverages,1.0
+7208,Nutritional beverages,US5404,Nutrition bars,0.743
+7208,Nutritional beverages,US9802,Protein and nutritional powders,0.577
+7208,Nutritional beverages,US6412,String beans,0.545
+7208,Nutritional beverages,US6009,Strawberries,0.485
+9802,Protein and nutritional powders,US9802,Protein and nutritional powders,1.0
+9802,Protein and nutritional powders,SYPR,Protein Powders,0.652
+9802,Protein and nutritional powders,US7208,Nutritional beverages,0.577
+9802,Protein and nutritional powders,US6018,Other fruits and fruit salads,0.533
+9802,Protein and nutritional powders,US5404,Nutrition bars,0.533
+7206,Sport and energy drinks,US7206,Sport and energy drinks,1.0
+7206,Sport and energy drinks,US7104,Diet sport and energy drinks,0.902
+7206,Sport and energy drinks,US7220,Smoothies and grain drinks,0.653
+7206,Sport and energy drinks,OTDR,Other drinks,0.629
+7206,Sport and energy drinks,US7202,Soft drinks,0.588
+7104,Diet sport and energy drinks,US7104,Diet sport and energy drinks,1.0
+7104,Diet sport and energy drinks,US7206,Sport and energy drinks,0.902
+7104,Diet sport and energy drinks,US7102,Diet soft drinks,0.682
+7104,Diet sport and energy drinks,US7220,Smoothies and grain drinks,0.593
+7104,Diet sport and energy drinks,US1402,Milk shakes and other dairy drinks,0.581

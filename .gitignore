@@ -39,3 +39,8 @@ participant_data/
 .DS_Store
 .vscode/
 .idea/
+intake24/data/
+
+# Allow reviewed public Intake24 mapping files
+!intake24/mappings/
+!intake24/mappings/*.csv
