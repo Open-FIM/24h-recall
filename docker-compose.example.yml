@@ -1,0 +1,64 @@
+services:
+  recall-db:
+    image: postgres:16
+    container_name: openfim-recall-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: openfim_recalls
+      POSTGRES_USER: openfim
+      POSTGRES_PASSWORD: replace_me_for_local_dev
+    ports:
+      - "5433:5432"
+    volumes:
+      - openfim_recall_db_data:/var/lib/postgresql/data
+      - ./sql/create_recall_tables.sql:/docker-entrypoint-initdb.d/01_create_recall_tables.sql:ro
+
+  webhook:
+    image: python:3.12-slim
+    container_name: openfim-recall-webhook
+    restart: unless-stopped
+    depends_on:
+      - recall-db
+    working_dir: /app
+    volumes:
+      - ./webhook:/app:ro
+    ports:
+      - "5000:5000"
+    environment:
+      # Public-facing Intake24 base URL.
+      # Replace this with your Intake24 host.
+      INTAKE24_URL: "http://localhost:8200"
+
+      # Intake24 survey slug.
+      SURVEY_ID: "openfim"
+
+      # Replace before real use.
+      JWT_SECRET: "replace_with_your_intake24_jwt_secret"
+      JWT_ALGORITHM: "HS256"
+      JWT_EXP_DAYS: "365"
+
+      # Recall database used by this compose file.
+      RECALLS_DB_HOST: "recall-db"
+      RECALLS_DB_PORT: "5432"
+      RECALLS_DB_NAME: "openfim_recalls"
+      RECALLS_DB_USER: "openfim"
+      RECALLS_DB_PASSWORD: "replace_me_for_local_dev"
+
+      # Optional: Intake24 foods database.
+      # Food-level recall export will still work without this,
+      # but additional descriptions may be blank if this database is unavailable.
+      FOODS_DB_HOST: "host.docker.internal"
+      FOODS_DB_PORT: "5432"
+      FOODS_DB_NAME: "intake24_foods_dev"
+      FOODS_DB_USER: "postgres"
+      FOODS_DB_PASSWORD: ""
+
+      OPENFIM_DATA_DIR: "/app/data"
+      WEBHOOK_HOST: "0.0.0.0"
+      WEBHOOK_PORT: "5000"
+    command: >
+      sh -c "pip install --no-cache-dir -r requirements.txt &&
+             python webhook_receiver.py"
+
+volumes:
+  openfim_recall_db_data:

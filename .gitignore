@@ -1,0 +1,41 @@
+# Secrets and environment
+.env
+*.env
+.env.*
+secrets/
+*.key
+*.pem
+
+# Logs
+*.log
+nohup.out
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Databases and exports
+*.db
+*.sqlite
+*.sqlite3
+*.dump
+*.sql.gz
+*.csv
+*.tsv
+*.xlsx
+*.json
+*.jsonl
+
+# Participant or study data
+data/
+exports/
+recalls/
+participant_data/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
