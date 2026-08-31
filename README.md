@@ -36,9 +36,6 @@ This repository does not include:
 
 - participant data
 - database dumps
-- JWT secrets
-- server credentials
-- SMTP passwords
 - protected health information
 - Intake24 image archives
 - proprietary food databases
