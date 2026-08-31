@@ -54,3 +54,22 @@ This repository does not include:
 Only share the generated participant-facing Intake24 link with participants.
 
 Do not share internal webhook URLs, localhost URLs, Docker bridge URLs, admin URLs, or server-side routes.
+
+
+## How to cite
+
+If you use this repository, please cite it as:
+
+Amaning-Kwarteng G., Marru H., Puranik, I., Krishnan G., Marru S., Krishnan S. OpenFIM 24h Recall: Intake24 workflow for multi-study 24-hour dietary recall collection with USDA/FNDDS import support. GitHub repository: https://github.com/Open-FIM/24h-recall
+
+Suggested BibTeX:
+
+```bibtex
+@software{openfim_24h_recall,
+  title = {OpenFIM 24h Recall: Intake24 workflow for multi-study 24-hour dietary recall collection with USDA/FNDDS import support},
+  author = {LAmaning-Kwarteng G., Marru H., Puranik, I., Krishnan G., Marru S., Krishnan S},
+  organization = {Open-FIM},
+  url = {https://github.com/Open-FIM/24h-recall},
+  year = {2026},
+  note = {GitHub repository}
+}
