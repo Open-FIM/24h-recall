@@ -73,3 +73,6 @@ Suggested BibTeX:
   year = {2026},
   note = {GitHub repository}
 }
+
+
+## Resources showing use of Intake24 across countries
