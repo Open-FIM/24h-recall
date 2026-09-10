@@ -56,6 +56,12 @@ Only share the generated participant-facing Intake24 link with participants.
 Do not share internal webhook URLs, localhost URLs, Docker bridge URLs, admin URLs, or server-side routes.
 
 
+## Resources showing use of Intake24 across countries
+## Validation
+
+## Adopted to different countries
+
+
 ## How to cite
 
 If you use this repository, please cite it as:
@@ -75,4 +81,3 @@ Suggested BibTeX:
 }
 
 
-## Resources showing use of Intake24 across countries
