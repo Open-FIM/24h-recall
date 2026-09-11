@@ -68,6 +68,8 @@ If you use this repository, please cite it as:
 
 Amaning-Kwarteng G., Marru H., Puranik, I., Krishnan G., Marru S., Krishnan S. OpenFIM 24h Recall: Intake24 workflow for multi-study 24-hour dietary recall collection with USDA/FNDDS import support. GitHub repository: https://github.com/Open-FIM/24h-recall
 
+[![DOI](https://zenodo.org/badge/1351604264.svg)](https://doi.org/10.5281/zenodo.22699801)
+
 Suggested BibTeX:
 
 ```bibtex
@@ -79,5 +81,4 @@ Suggested BibTeX:
   year = {2026},
   note = {GitHub repository}
 }
-
 
