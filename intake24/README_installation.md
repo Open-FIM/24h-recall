@@ -1,6 +1,6 @@
-Installation instructions
+# Installation instructions
 
-1.Install and run Intake24
+## 1.Install and run Intake24
 Official Intake24 docs:
 Overview: https://docs.intake24.org/
 Getting started: https://docs.intake24.org/guide/get-started
@@ -37,7 +37,7 @@ the JWT secret used by Intake24 (needed for participant link generation)
 Use the admin panel to create/configure surveys, set locales (including `en_US` after FNDDS import), and manage food data.
 For US food mapping and optional FNDDS import steps, see [`intake24/README.md`](intake24/README.md).
 
-2. Start the OpenFIM recall webhook and database
+## 2. Start the OpenFIM recall webhook and database
 From this repository:
 ```bash
 cp docker-compose.example.yml docker-compose.yml
@@ -56,7 +56,7 @@ PostgreSQL recall database on port `5433`
 Flask webhook on port `5000`
 The recall tables are created automatically from `sql/create_recall_tables.sql`.
 
-3. Install the OpenWebUI Intake24 pipeline
+## 3. Install the OpenWebUI Intake24 pipeline
 The OpenWebUI pipeline lives at:
 pipelines/openfim_recall_pipeline.py
 Install it in OpenWebUI Pipelines (Admin → Pipelines), or copy it into your pipelines volume/directory.
@@ -66,6 +66,6 @@ Configure pipeline valves / environment as needed:
 Example prompts after installation:
 `start baseline recall for P001`
 
-4. Point Intake24 callbacks at the webhook
+## 4. Point Intake24 callbacks at the webhook
 Configure your Intake24 survey / integration so completed recalls POST to:
 Http://<webhook-host>:5000/intake24/callback
