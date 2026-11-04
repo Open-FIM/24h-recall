@@ -3,7 +3,7 @@ https://arizona.box.com/s/7bj0ck0gmr0jlhzwlp60yorn8gwqd98b
 
 # OpenFIM 24h Recall - try it
 Here is our link where the tool is live- https://24hrecall.cales.arizona.edu
-Send us an email and we can give you access to try this tool for yourself before using it for a study. 
+Send us an email and we can give you access to try this tool for yourself. 
 
 
 # OpenFIM 24h Recall
