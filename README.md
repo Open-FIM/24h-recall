@@ -1,6 +1,11 @@
 # Video Tutorial
 https://arizona.box.com/s/7bj0ck0gmr0jlhzwlp60yorn8gwqd98b
 
+# OpenFIM 24h Recall - try it
+Here is our link where the tool is live- https://24hrecall.cales.arizona.edu
+Send us an email and we can give you access to try this tool for yourself before using it for a study. 
+
+
 # OpenFIM 24h Recall
 
 OpenFIM 24h Recall is a multi-study workflow for managing 24-hour dietary recalls using Intake24, OpenWebUI, PostgreSQL, and a lightweight Flask webhook.
